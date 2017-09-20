@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Shape Dodge</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Strings related to PauseActivity -->
+    <string name="resume">Resume</string>
+    <string name="restart">Restart</string>
+    <string name="sound_settings">Sound Settings</string>
+    <string name="quit">Quit</string>
+
+    <!-- Strings related to GameActivity -->
+    <string name="score">Score:</string>
+    <string name="lives">Lives:</string>
+
+    <!-- Strings related to Instructions -->
+    <string name="inst">Instructions</string>
+    <string name="welcome">Welcome to Shape Dodge!\n\n</string>
+    <string name="objective">The objective of the game is to survive. The longer you\'re alive, the harder the game gets.\n</string>
+    <string name="moving">To control and move your character, use the joystick.</string>
+    <string name="hitdetect">You have 3 lives. You lose lives when the center of your character hits an enemy.\n</string>
+    <string name="powerups">Power-Ups are the rainbow squares which spawn periodically and grant a random power-up. \nThere are three types of power-ups:\n\n
+        Freeze: Makes you invulnerable and freezes all enemies for a short period of time.\n
+                            Nuke: Eliminates all enemies on the game screen.\n
+                            Extra Life: Grants an additional life.</string>
+    <string name="unlocks">\n\n\nHigh scores may unlock new colors!</string>
+
+</resources>
